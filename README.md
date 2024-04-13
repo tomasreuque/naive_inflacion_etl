@@ -5,5 +5,9 @@ A raiz de una cuenta de X que remite la inflacion diaria y nos mantiene informad
 *Vamos a scrapear un codigo que nos permirta tener una vista previa de la pagina web
 *Guardar en csv
 
-10/04
-actualizacion me estoy amigando con las librerias de request y beautifulsoup4 y logre en primera instancia lo que me propuse, aunque falta mejorar el codigo pera que pueda realizar un scrapping mas exhasutivo
+10/04 actualizacion me estoy amigando con las librerias de request y beautifulsoup4 y logre en primera instancia lo que me propuse, aunque falta mejorar el codigo pera que pueda realizar un scrapping mas exhasutivo
+
+13/04 actualizacion codigo corregido ---> no guardaba la data bien
+nuestro codigo usa selenium para obtener de un url de una pagina del tipo eccomerce los productos con su nombre y precio
+Mis proximos pasos seran 1) Obtener la totalidad de instacias de una subcategoria
+                         2) automatizar el codigo para que recorra todas las categorias y subcatecorias
