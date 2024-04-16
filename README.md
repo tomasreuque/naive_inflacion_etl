@@ -11,3 +11,10 @@ A raiz de una cuenta de X que remite la inflacion diaria y nos mantiene informad
 nuestro codigo usa selenium para obtener de un url de una pagina del tipo eccomerce los productos con su nombre y precio
 Mis proximos pasos seran 1) Obtener la totalidad de instacias de una subcategoria
                          2) automatizar el codigo para que recorra todas las categorias y subcatecorias
+
+![Texto alternativo](src/primras.PNG)
+necesito iterar sobre las categorias y sub categorias. de momento va a ser hardcodeado
+
+
+![Texto](src/caaaaaa.PNG)
+Como las etiquetas al presionarlas nos dirigen a un link podemos usar el href como parte de el link y eso nos servira para recorrer todas las subcategorias
